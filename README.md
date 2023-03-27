@@ -2,7 +2,7 @@
 
 I am a computer science undergrad from Connecticut, now in Los Angeles. I am interested in all kinds of computer and enviornmental related work 🪴. I am deeply passionate in acquiring new knowledge and skills.
 
-##Working on 💻
+## Working on 💻 <br>
 
 Currently taking a class in Datastructures
 
