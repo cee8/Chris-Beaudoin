@@ -1,7 +1,7 @@
 ### 👋 Hi there
 ---
 My name is Chris Beaudoin
-- I am a computerscience student from Connecticut now attending Loyola Marymount University in Los Angeles
+- I am a Computer Science major from Connecticut now attending Loyola Marymount University in Los Angeles
 - I am interested in all kinds of computer and enviornmental related work 🪴
 - I am deeply passionate in acquiring new knowledge and skills
 
@@ -13,7 +13,7 @@ My name is Chris Beaudoin
 
 #### ☑️ Skills 
 ---
-
+<
 - Python - Experienced
 - SOLIDWORKS - Intermediate
 - HTML/CSS - Intermediate
@@ -22,7 +22,7 @@ My name is Chris Beaudoin
 - Javascript - Learning
 - Github
 - Excel
-
+>
 
 <!--
 **Chris-Beaudoin/Chris-Beaudoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
