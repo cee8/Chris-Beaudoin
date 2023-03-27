@@ -1,15 +1,17 @@
-### Hi there, my name is Chris Beaudoin👋
+### 👋 Hi there
 ---
+My name is Chris Beaudoin
+- I am a computerscience student from Connecticut now attending Loyola Marymount University in Los Angeles
+- I am interested in all kinds of computer and enviornmental related work 🪴
+- I am deeply passionate in acquiring new knowledge and skills
 
-I am a computer science undergrad from Connecticut, now in Los Angeles. I am interested in all kinds of computer and enviornmental related work 🪴. I am deeply passionate in acquiring new knowledge and skills.
-
-#### Working on 💻
+#### 💻 Working on
 ---
 
 - Currently taking a class in Datastructures
 - Portfolio including past projects, notes, etc.
 
-#### Skills ☑️ 
+#### ☑️ Skills 
 ---
 
 - Python - Experienced
