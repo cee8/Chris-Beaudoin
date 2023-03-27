@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, my name is Chris Beaudoin👋
+
+I am a computer science undergrad from Connecticut, now in Los Angeles. I am interested in all kinds of computer and enviornmental related work 🪴. I am deeply passionate in acquiring new knowledge and skills.
+
+##Working on 💻
+
+Currently taking a class in Datastructures
+
 
 <!--
 **Chris-Beaudoin/Chris-Beaudoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
