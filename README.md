@@ -13,16 +13,16 @@ My name is Chris Beaudoin
 
 #### ☑️ Skills 
 ---
-<
-- Python - Experienced
-- SOLIDWORKS - Intermediate
-- HTML/CSS - Intermediate
-- Java - Intermediate
-- Rest API's - Learning
-- Javascript - Learning
-- Github
-- Excel
->
+
+>- Python - Experienced
+>- SOLIDWORKS - Intermediate
+>- HTML/CSS - Intermediate
+>- Java - Intermediate
+>- Rest API's - Learning
+>- Javascript - Learning
+>- Github
+>- Excel
+
 
 <!--
 **Chris-Beaudoin/Chris-Beaudoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
