@@ -14,13 +14,13 @@ My name is Chris Beaudoin
 #### ☑️ Skills 
 ---
 
->- Python - Experienced
+>- Python - Intermediate
 >- SOLIDWORKS - Intermediate
 >- HTML/CSS - Intermediate
 >- Java - Intermediate
 >- Rest API's - Learning
 >- Javascript - Learning
->- Github
+>- Git
 >- Excel
 
 
