@@ -45,11 +45,12 @@ Outside the digital world, I'm an adventurer at heart — hiking, training for t
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/beaudoin-/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height:28px;"/>
   </a>
   <a href="https://twitter.com/chris_beauds">
-    <img src="https://img.shields.io/twitter/follow/chris_beauds?style=social" alt="Twitter Follow Badge"/>
+    <img src="https://img.shields.io/twitter/follow/chris_beauds?label=Follow&style=social" alt="Twitter Follow Badge" style="height:28px;"/>
   </a>
+
 
 
   
