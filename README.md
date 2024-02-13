@@ -43,27 +43,14 @@ Outside the digital world, I'm an adventurer at heart — hiking, training for t
 
 🔗 **Connect:**
 
-<style>
-  .badge {
-    border-radius: 6px; /* Adjust the radius as needed */
-    overflow: hidden; /* Ensures the border-radius applies to the image */
-    display: inline-block; /* Aligns the badges next to each other */
-    text-decoration: none; /* Removes the underline from the link */
-    margin-right: 5px; /* Adds a small space between the badges */
-  }
-
-  .badge img {
-    display: block; /* Removes bottom space under the image */
-    height: 28px; /* Adjusts the height of the badges */
-  }
-</style>
-
-<a href="https://www.linkedin.com/in/beaudoin-/" class="badge">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<a href="https://www.linkedin.com/in/beaudoin-/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height:28px;"/>
 </a>
-<a href="https://twitter.com/chris_beauds" class="badge">
-  <img src="https://img.shields.io/twitter/follow/chris_beauds?label=Follow&style=flat-square&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Follow Badge"/>
+<a href="https://twitter.com/chris_beauds">
+  <img src="https://img.shields.io/twitter/follow/chris_beauds?label=Follow&style=social" alt="Twitter Follow Badge" style="height:28px;"/>
 </a>
+
+
 
 
   
