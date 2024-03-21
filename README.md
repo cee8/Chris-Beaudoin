@@ -12,7 +12,7 @@
 
 🙋‍♂️ **About Me:**
 
-Hi  I'm Chris! I am someone who is deeply passionate about blending tech with creative solutions to make a positive impact, especially in environmental conservation. My journey is filled with various projects, from data management systems to innovative software development, and my biggest interests are with machine learning and artificial intelligence.
+Hi  I'm Chris! I am someone who is deeply passionate about blending tech with creative solutions to make a positive impact, especially in environmental conservation. My journey is filled with various projects, from data management systems to innovative software development, and my biggest interests are with deep learning and edge AI.
 
 Outside the digital world, I'm an adventurer at heart — hiking, training for triathlons, and capturing the world through my lens, constantly seeking inspiration from nature.
 
