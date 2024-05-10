@@ -1,20 +1,14 @@
-### 🌟 Welcome to Chris Beaudoin's GitHub!
-
----
-
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300"/>
+<body>
+  
+<div style="position: relative">
+  
+<div id="welcome-message" align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=D9D3B9&random=false&width=435&lines=Hi%2C+I'm+Chris+Beaudoin!;Welcome+to+my+account." alt="Typing SVG" /></a>
 </div>
 
 
-
-🙋‍♂️ **About Me:**
-
-Hi  I'm Chris! I am someone who is deeply passionate about blending tech with creative solutions to make a positive impact, especially in environmental conservation. My journey is filled with various projects, from data management systems to innovative software development, and my biggest interests are with deep learning and edge AI.
-
-Outside the digital world, I'm an adventurer at heart — hiking, training for triathlons, and capturing the world through my lens, constantly seeking inspiration from nature.
+Hi  I'm Chris! I am someone who is deeply passionate about blending tech with creative solutions to make a positive impact. My journey is filled with various projects, from full-stack websites to image recognition models.
+Outside the digital world, I'm an adventurer at heart — hiking, camping, training for triathlons, capturing the world through my camera, and constantly seeking inspiration from nature.
 
 ---
 
@@ -54,26 +48,6 @@ Outside the digital world, I'm an adventurer at heart — hiking, training for t
 
 
   
-<!--   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
+
 </div>
 
-
-<!--
-**Chris-Beaudoin/Chris-Beaudoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
