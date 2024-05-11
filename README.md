@@ -18,7 +18,7 @@ Outside the digital world, I'm an adventurer at heart — hiking, camping, train
       <img src="https://img.shields.io/badge/TensorFlow-ff9700?style=for-the-badge&logo=tensorflow&logoColor=white">
       <img src="https://img.shields.io/badge/Keras-d00101?style=for-the-badge&logo=keras&logoColor=white">
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoCo" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
       <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
