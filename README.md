@@ -12,8 +12,8 @@ Outside the digital world, I'm an adventurer at heart — hiking, camping, train
 
 <p align="left">
       <h3> My tech stack </h3> </br>
-      <img src="https://img.shields.io/badge/python3-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
+      <img src="https://img.shields.io/badge/python3-3670A0?style=for-the-badge&logo=python&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" /> 
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-ff9700?style=for-the-badge&logo=tensorflow&logoColor=white">
       <img src="https://img.shields.io/badge/Keras-d00101?style=for-the-badge&logo=keras&logoColor=white">
