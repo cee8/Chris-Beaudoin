@@ -10,6 +10,9 @@
 Hi  I'm Chris! I am someone who is deeply passionate about blending tech with creative solutions to make a positive impact. My journey is filled with various projects, from full-stack websites to image recognition models.
 Outside the digital world, I'm an adventurer at heart — hiking, camping, training for triathlons, capturing the world through my camera, and constantly seeking inspiration from nature.
 
+<br>
+
+<img src="https://github.com/cee8/some-chris-images/blob/main/ChrisCodingImage" width=250 height=335 align="right"/>
 <p align="left">
       <h3> My tech stack </h3> </br>
       <img src="https://img.shields.io/badge/python3-3670A0?style=for-the-badge&logo=python&logoColor=white" /> 
@@ -36,7 +39,8 @@ Outside the digital world, I'm an adventurer at heart — hiking, camping, train
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  
 </p>
 
-<!-- <img src="" width=250 height=250 align="right"/> -->
+
+
 
 
 <p align="left">
