@@ -42,18 +42,13 @@ Outside the digital world, I'm an adventurer at heart — hiking, camping, train
 
 
 
+<br>
+<br>
 
-<p align="left">
-      <h3> Connect! </h3> </br>
-      <a href="https://www.linkedin.com/in/beaudoin-/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height:28px;"/>
-      </a>
-      <a href="https://twitter.com/chris_beauds">
-        <img src="https://img.shields.io/twitter/follow/chris_beauds?label=Follow&style=social" alt="Twitter Follow Badge" style="height:28px;"/>
-      </a>
-      
-</p>
+## Connect with me
 
+[<img target="_blank" src="https://img.icons8.com/nolan/64/linkedin.png" title="linkedin" width="90" height="90">](https://www.linkedin.com/in/-beaudoin/)
+[<img src="https://img.icons8.com/nolan/64/twitterx.png" width="90" height="90">](https://twitter.com/chris_beauds)
 
 </div>
 
