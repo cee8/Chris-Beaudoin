@@ -8,7 +8,7 @@
 
 
 Hi  I'm **Chris**! I am someone who is deeply passionate about blending tech with creative solutions to make a **positive impact**. My journey is filled with various projects, from **full-stack** websites to **image recognition models**.
-Outside the digital world, I'm an **adventurer** at heart — **hiking**, **camping**, training for **triathlons**, capturing the world through my **camera**, and constantly seeking inspiration from **nature**!
+Outside the digital world, I'm an **adventurer** at heart — **hiking**, **camping**, training for **triathlons**, capturing the world through my **camera**, and constantly seeking inspiration from **nature**!!
 
 <br>
 
